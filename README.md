@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Shopee OpsKit
+> Find out everything you need to know to reliably scrape Shopee with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/shopee)
+
+This kit provides the blueprint for Shopee scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-shopee-scrapers)
 - [Scrapers By Language](#shopee-scrapers-by-language)
@@ -36,46 +47,45 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-shopee-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [Shopee-Scrape](https://github.com/warifp/Shopee-Scrape) ![img](https://github.com/warifp.png?size=20) | php | ⭐ 91 | ✅ Yes | 2021-08-24 | ✅ |
-| [shopee-scraper](https://github.com/paulodarosa/shopee-scraper) ![img](https://github.com/paulodarosa.png?size=20) | python | ⭐ 33 | ✅ Yes | 2023-10-15 | ✅ |
-| [shopee-product-scraper](https://github.com/fazxid/shopee-product-scraper) ![img](https://github.com/fazxid.png?size=20) | javascript | ⭐ 8 | ✅ Yes | 2021-02-08 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [Shopee-Scrape](https://github.com/warifp/Shopee-Scrape) ![img](https://github.com/warifp.png?size=20) | php | ⭐ 91 | ❌ No | 2021-08-24 |
+| [shopee-scraper](https://github.com/paulodarosa/shopee-scraper) ![img](https://github.com/paulodarosa.png?size=20) | python | ⭐ 33 | ❌ No | 2023-10-15 |
+| [shopee-product-scraper](https://github.com/fazxid/shopee-product-scraper) ![img](https://github.com/fazxid.png?size=20) | javascript | ⭐ 8 | ❌ No | 2021-02-08 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Shopee Scrapers By Language <a id="shopee-scrapers-by-language"></a>
-
-### Jupyter Notebook
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [ToShPak-scrape](https://github.com/belajarqywok/ToShPak-scrape) | ⭐ 3 | 2022-03-06 | — | ✅ Yes |
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [shopee-scraper](https://github.com/paulodarosa/shopee-scraper) | ⭐ 33 | 2023-10-15 | immediate | ❌ No |
+| [shopee-scraper](https://github.com/izzatz/shopee-scraper) | ⭐ 7 | 2022-08-16 | beginner | ❌ No |
+| [shopee-product-scraper-by-seller-name](https://github.com/toriqahmads/shopee-product-scraper-by-seller-name) | ⭐ 7 | 2018-08-20 | immediate | ❌ No |
+| [shopee-scraper](https://github.com/dtungpka/shopee-scraper) | ⭐ 6 | 2025-01-04 | immediate | ✅ Yes |
+| [shopee-scraper](https://github.com/bayoook/shopee-scraper) | ⭐ 5 | 2020-04-02 | immediate | ❌ No |
+| [shopee_scrape](https://github.com/budhilaw/shopee_scrape) | ⭐ 1 | 2019-01-04 | immediate | ❌ No |
 
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [shopee-product-scraper](https://github.com/fazxid/shopee-product-scraper) | ⭐ 8 | 2021-02-08 | — | ✅ Yes |
-| [bot-get-product-shopee](https://github.com/Manusiabodoh4/bot-get-product-shopee) | ⭐ 5 | 2022-03-28 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [shopee-product-scraper](https://github.com/fazxid/shopee-product-scraper) | ⭐ 8 | 2021-02-08 | immediate | ❌ No |
+| [bot-get-product-shopee](https://github.com/Manusiabodoh4/bot-get-product-shopee) | ⭐ 5 | 2022-03-28 | immediate | ❌ No |
+
+
+### Jupyter Notebook
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [ToShPak-scrape](https://github.com/belajarqywok/ToShPak-scrape) | ⭐ 3 | 2022-03-06 | immediate | ❌ No |
 
 
 ### Php
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Shopee-Scrape](https://github.com/warifp/Shopee-Scrape) | ⭐ 91 | 2021-08-24 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [shopee-scraper](https://github.com/paulodarosa/shopee-scraper) | ⭐ 33 | 2023-10-15 | — | ✅ Yes |
-| [shopee-scraper](https://github.com/izzatz/shopee-scraper) | ⭐ 7 | 2022-08-16 | — | ✅ Yes |
-| [shopee-product-scraper-by-seller-name](https://github.com/toriqahmads/shopee-product-scraper-by-seller-name) | ⭐ 7 | 2018-08-20 | — | ✅ Yes |
-| [shopee-scraper](https://github.com/dtungpka/shopee-scraper) | ⭐ 6 | 2025-01-04 | — | ✅ Yes |
-| [shopee-scraper](https://github.com/bayoook/shopee-scraper) | ⭐ 5 | 2020-04-02 | — | ✅ Yes |
-| [shopee_scrape](https://github.com/budhilaw/shopee_scrape) | ⭐ 1 | 2019-01-04 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Shopee-Scrape](https://github.com/warifp/Shopee-Scrape) | ⭐ 91 | 2021-08-24 | immediate | ❌ No |
 
 ---
 
@@ -106,7 +116,7 @@ Know a Shopee scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
