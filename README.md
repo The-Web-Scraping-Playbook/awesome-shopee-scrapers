@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Shopee OpsKit
-> Find out everything you need to know to reliably scrape Shopee with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/shopee)
+> Find out everything you need to know to reliably scrape Shopee with our new tool: [Ops Kit](https://scrapeops.io/websites/shopee)
 
 This kit provides the blueprint for Shopee scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -104,7 +104,7 @@ This kit provides the blueprint for Shopee scraping operations:
 ---
 
 ## 🧠 Shopee Tutorials & How-Tos<a id="shopee-tutorials"></a>
-- 📘 [How to Scrape Shopee at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-shopee/)
+- 📘 [How to Scrape Shopee at Scale](https://scrapeops.io/websites/shopee/how-to-scrape-shopee)
 - 🔐 [Web Scraping Shopee Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
